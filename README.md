@@ -19,7 +19,15 @@ This project explores a housing dataset through detailed exploratory data analys
 
 - Explore advanced machine learning models (e.g., Random Forest, Gradient Boosting) to capture nonlinear relationships  
 - Test additional hypotheses around neighborhood effects and garage characteristics  
-- Incorporate corrections for multiple comparisons in hypothesis testing  
+- Incorporate corrections for multiple comparisons in hypothesis testing
+
+## Notebook Setup Instructions
+
+To run this project, you’ll need Python installed.  
+You can install the required Python packages using:
+
+```bash
+pip install -r requirements.txt
 
 ## How to Use
 
